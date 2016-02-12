@@ -6,4 +6,4 @@ We're going to make your music box in three steps:
 2. Use the keys on the keyboard instead of buttons on the screen
 3. Hook up our animations and visuals
 
-Let's get started with [step 1](step-1)
+Let's get started!
