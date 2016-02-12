@@ -24,13 +24,63 @@
   },
   {
    "id": "10802839-e308-c880-6575-cd6fbb9b371e",
-   "title": "Step 1 - Playing Sounds",
-   "files": [],
+   "title": "Step I - Playing Sounds",
+   "files": [
+    {
+     "path": "index.html",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
    "layout": "2-panels-tree",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Step-1---Playing-Sounds-1080.md",
+   "content-file": ".guides/content/Step-I---Playing-Sounds-1080.md",
    "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4136d62f-f422-6d88-839a-c64eadb82b9e",
+   "title": "Buttons!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Buttons--4136.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "86814473-6b-82cf-cf0f-366eb03bea53",
+   "title": "Variables, ...",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-5-8681.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f2fafd2f-e70a-47f3-9bfa-7537928b19f9",
+   "title": "Functions, ...",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Functions------f2fa.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a396786f-46b3-740c-389b-d4874b942c10",
+   "title": "and Events!",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/and-Events--a396.md",
+   "chapter": false,
    "reset": [],
    "teacherOnly": false
   }
