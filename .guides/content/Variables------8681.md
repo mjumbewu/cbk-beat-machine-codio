@@ -13,5 +13,3 @@ var sisters = ['Tayarisha'];
 ## Types
 
 Variables can represent different types of *objects*. Some of the values that the variables represent in the example above have quotes (`'`) around them. Those variables are called *strings*.
-
-**In your HTML, make a variable called `sound1` that represents a *string* with the location of the sound you chose earlier.**
