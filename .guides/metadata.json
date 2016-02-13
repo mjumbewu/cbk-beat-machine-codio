@@ -63,6 +63,17 @@
    "teacherOnly": false
   },
   {
+   "id": "9817be5c-1d5f-cd31-9922-510f1893d777",
+   "title": "(string variables)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-string-variables--9817.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "f2fafd2f-e70a-47f3-9bfa-7537928b19f9",
    "title": "Functions, ...",
    "files": [],
