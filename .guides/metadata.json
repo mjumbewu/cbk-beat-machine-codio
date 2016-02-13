@@ -65,7 +65,16 @@
   {
    "id": "9817be5c-1d5f-cd31-9922-510f1893d777",
    "title": "(string variables)",
-   "files": [],
+   "files": [
+    {
+     "path": "index.html",
+     "panel": 0,
+     "ref": "var sound1",
+     "lineCount": null,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/-string-variables--9817.md",
