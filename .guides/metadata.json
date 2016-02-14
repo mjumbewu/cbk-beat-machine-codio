@@ -54,7 +54,15 @@
   {
    "id": "86814473-6b-82cf-cf0f-366eb03bea53",
    "title": "Variables, ...",
-   "files": [],
+   "files": [
+    {
+     "path": "index.html",
+     "panel": 0,
+     "ref": "var string1",
+     "lineCount": 2,
+     "action": "open"
+    }
+   ],
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Variables------8681.md",
@@ -83,9 +91,37 @@
    "teacherOnly": false
   },
   {
+   "id": "c50b3db8-50dc-a91e-3df0-d474d61994c7",
+   "title": "(HTML element variables)",
+   "files": [
+    {
+     "path": "index.html",
+     "panel": 0,
+     "ref": "var sound1btn",
+     "lineCount": null,
+     "action": "open"
+    }
+   ],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-HTML-element-variables--c50b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
    "id": "f2fafd2f-e70a-47f3-9bfa-7537928b19f9",
    "title": "Functions, ...",
-   "files": [],
+   "files": [
+    {
+     "path": "index.html",
+     "panel": 0,
+     "ref": "function",
+     "lineCount": 3,
+     "action": "open"
+    }
+   ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Functions------f2fa.md",
