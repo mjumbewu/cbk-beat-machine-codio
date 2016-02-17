@@ -4,4 +4,10 @@ Variables can also represent HTML elements. You can create a variable to store y
 document.getElementById('sound1')
 ```
 
+The complete line should now say:
+
+```javascript
+var sound1btn = document.getElementById('sound1');
+```
+
 This code uses a *function* called `getElementById`. You'll learn about functions in the next section.

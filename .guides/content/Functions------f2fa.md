@@ -39,7 +39,7 @@ As you can see in your HTML code, here you have one function named `playSound1`.
 
 ## Using functions
 
-After you name a function, you can use it in other places. To call a function, you first use its name, and then in parentheses say what values it should use as inputs. For exampleyou can the `addValues` function above like so:
+After you name a function, you can use it in other places. To call a function, you first use its name, and then in parentheses say what values it should use as inputs. For example you can the `addValues` function above like so:
 
 ```javascript
 addValues(2, 3);  // Output will be 5
