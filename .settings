@@ -22,6 +22,7 @@ tab_size = 2
 
 [ide]
 ; enter your ide preferences here...
+highlight_unsaved_tabs = true
 
 [code-beautifier]
 ; enter your code-beautifier preferences here...
