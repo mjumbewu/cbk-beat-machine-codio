@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head>
+    <title>Events - Say Hi Button Demo</title>
+</head>
+  
+<body>
+  <button id="sayHiBtn" type="button">Say Hi</button>
+  <script>
+    function sayHi() {
+      alert('Hello there!');
+    }
+    var sayHiBtn = document.getElementById('sayHiBtn');
+    sayHiBtn.addEventListener('click', sayHi);
+  </script>
+</body>
+</html>
