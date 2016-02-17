@@ -44,10 +44,11 @@
    "id": "4136d62f-f422-6d88-839a-c64eadb82b9e",
    "title": "Buttons!",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Buttons--4136.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
