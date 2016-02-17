@@ -36,7 +36,7 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Step-I---Playing-Sounds-1080.md",
-   "chapter": true,
+   "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
@@ -64,10 +64,11 @@
      "action": "open"
     }
    ],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Variables------8681.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -126,7 +127,7 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Functions------f2fa.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   },
@@ -134,10 +135,11 @@
    "id": "a396786f-46b3-740c-389b-d4874b942c10",
    "title": "and Events!",
    "files": [],
+   "layout": "",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/and-Events--a396.md",
-   "chapter": false,
+   "chapter": true,
    "reset": [],
    "teacherOnly": false
   }
