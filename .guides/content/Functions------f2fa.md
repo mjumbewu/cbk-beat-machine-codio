@@ -1,6 +1,6 @@
 By listing out instructions, you can get the computer to do just about anything. You can use a *function* to wrap up a set of instructions so that you can run them over and over again. A function is like a machine that takes some *input* and gives some *output*.
 
-You could think of a recipe as a function where you put in some ingredients (*inputs*), mix them and cook them according to some directions (*instructions*), and get a cooked dish (*outputs*).
+A recipe is kind of like a function, where you put in some ingredients (*inputs*), mix them and cook them according to some directions (*instructions*), and get a cooked dish (*outputs*).
 
 <img src=".guides/img/Recipes-are-like-functions.svg" title="Recipes are like functions" style="text-align: center; border: 1px solid silver;" width="75%">
 

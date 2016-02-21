@@ -1,1 +1,3 @@
-In your HTML, make a variable called `sound1` that represents a *string* with the location of the sound you chose earlier. If you chose more than one sound, you can make more variables for each one. Each variable should have its own name though (for example you could use `sound2`, `sound3`, ...)
+In your HTML, make a variable called `sound1` that represents a *string* with the location of the sound you chose earlier (for example, *http://patatap.com/assets/A/piston-1.mp3*). If you chose more than one sound, you can make more variables for each one. Each variable should have its own name though (for example you could use `sound2`, `sound3`, ...)
+
+Remember to use quotes (`'`) around your string value.

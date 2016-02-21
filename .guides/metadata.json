@@ -30,6 +30,11 @@
      "path": "index.html",
      "panel": 0,
      "action": "open"
+    },
+    {
+     "path": "sounds.md",
+     "panel": 0,
+     "action": "open"
     }
    ],
    "layout": "2-panels-tree",
@@ -140,6 +145,17 @@
    "type": "markdown",
    "content-file": ".guides/content/and-Events--a396.md",
    "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cb723ac6-fd0c-168a-b680-ed34bad70d3",
+   "title": "New Section 10",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-10-cb72.md",
+   "chapter": false,
    "reset": [],
    "teacherOnly": false
   }

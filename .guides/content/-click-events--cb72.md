@@ -1,0 +1,1 @@
+Add a listener for  your `sound1btn`. Make your *click* event run the `playSound1` function when it happens.
